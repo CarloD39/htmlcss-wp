@@ -64,6 +64,10 @@ a{
     /* color: white; */
 }
 
+.picture.big>h3,{
+    max-width: 500px;
+}
+
 /* ---------------------------------------- */
 
 .box{
@@ -84,7 +88,7 @@ a{
     border-radius: 10px;
 }
 
-
+/* inizio div float */
 .small-1{
     width: 200px;
     padding-right: 5px; 
@@ -99,11 +103,8 @@ a{
     width: 200px;
     padding-left: 5px;
 }
+/* fine div float */
 
-.content{
-    background-color:lightseagreen; 
-    height: 280px;
-}
 
 .content.img{
     width: 100%;
